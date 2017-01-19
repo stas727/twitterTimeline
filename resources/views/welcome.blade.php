@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    <a href="{!! url('/twitterUserTimeLine') !!}">Twitter</a>
                 </div>
 
                 <div class="links">
